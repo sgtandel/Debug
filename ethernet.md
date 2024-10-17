@@ -232,3 +232,5 @@ ip link set dev eth2 up
        phytool read eth2/0x02/0x0086
        0x006D
        ```
+6. Verify DTS file for ethernet & phy node
+7. Verify pinmuxing 
